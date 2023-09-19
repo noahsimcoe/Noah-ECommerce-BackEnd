@@ -13,5 +13,7 @@ Some of the packages that are required though (to help connect your Express.js A
 This project is used as an example of what the back end of an application may look like. It can be used as a reference to see how Sequelize is used to connect to a MySQL database, it shows how tables/fake data are created and seeded on an application, and it provides a lot of examples of writted routes that follow the CRUD operations that can be used/tested in Insomnia for further learning.
 
 ## Video Submission
+https://drive.google.com/file/d/1-ninKEnQazyozfqHMbK7JWDIsyhCxua8/view
+
 
 
